@@ -20,3 +20,14 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+.vs/
+*.dll
+*.db
+*.ipch
+*.exe
+*.pdb
+*.obj
+*.lib
+*.log
+OpenCVApplication-VS2022_OCV490_basic/OpenCV/dll/
+OpenCVApplication-VS2022_OCV490_basic/.vs/
